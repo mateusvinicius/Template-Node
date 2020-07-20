@@ -19,9 +19,8 @@
     "forceConsistentCasingInFileNames": true,
     "baseUrl": ".",
     "paths": {
-      "@controllers/*": ["./src/controllers/*"],
-      "@Decorators/*":["./src/Decorators/*"],
-      "@Interfaces/*":["./src/interfaces/*"]
+  
+
     }
   },
   "include": [
